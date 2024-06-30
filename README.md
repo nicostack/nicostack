@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm a Linux enthusiast from Italy.
+
+- :computer: I'm currently working for [Par-Tec](https://www.par-tec.it/)
+- :basketball: I'm a Boston Celtics supporter
 <!--
 **iamdpastore/iamdpastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
