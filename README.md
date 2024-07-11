@@ -7,7 +7,7 @@ My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm a Linux ent
 - :basketball: I'm a Boston Celtics supporter.
 
 
-### My stats
+##### My stats
 ![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
 
 <!--
