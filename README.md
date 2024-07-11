@@ -7,8 +7,8 @@ My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm a Linux ent
 - :basketball: I'm a Boston Celtics supporter.
 
 
-> ![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
-> ![iamdpastore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdpastore&theme=radical&show_icons=true&hide_border=false&layout=compact)
+### My stats
+![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
 
 <!--
 **iamdpastore/iamdpastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
