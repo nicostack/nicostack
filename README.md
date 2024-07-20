@@ -21,6 +21,7 @@ I’m specialized in designing and implementing infrastructures in Linux-based e
 <p align="left">
 <a href="https://twitter.com/iamdpastore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdpastore" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamdpastore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamdpastore" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26445223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26445223" height="30" width="40" /></a>
 </p>
 
 ##### My stats
