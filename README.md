@@ -6,11 +6,12 @@ My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm Linux enthu
 - :cloud: I have my head in the clouds.
 - :basketball: I'm a Boston Celtics supporter.
 
+##### My Skills
 I’m specialized in designing and implementing infrastructures in Linux-based environments.
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,gcp,aws,ansible,python,bash,vim,grafana,jenkins" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,ansible,gcp,aws,python,bash,vim,grafana,jenkins" />
   </a>
 </p>
 
