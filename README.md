@@ -13,7 +13,7 @@
 I’m specialized in designing and implementing infrastructures in Linux-based environments.
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/iamdpastore">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,ansible,gcp,aws,python,redis,kafka,grafana,jenkins" />
   </a>
 </p>
