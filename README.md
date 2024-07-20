@@ -11,7 +11,7 @@ I’m specialized in designing and implementing infrastructures in Linux-based e
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,ansible,gcp,aws,python,bash,vim,grafana,jenkins" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,ansible,gcp,aws,python,vim,grafana,jenkins" />
   </a>
 </p>
 
