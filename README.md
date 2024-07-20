@@ -17,17 +17,12 @@ I’m specialized in designing and implementing infrastructures in Linux-based e
   </a>
 </p>
 
-##### My stats
-![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdpastore" alt="iamdpastore" /></a> </p>
-
 ##### Connect with me
 <p align="left">
 <a href="https://twitter.com/iamdpastore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdpastore" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamdpastore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamdpastore" height="30" width="40" /></a>
-<a href="https://instagram.com/iamdpastore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamdpastore" height="30" width="40" /></a>
 </p>
 
-##### Support
-<p><a href="https://www.buymeacoffee.com/iamdpastore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamdpastore" /></a></p><br><br>
+##### My stats
+![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdpastore" alt="iamdpastore" /></a> </p>
