@@ -5,6 +5,7 @@
 - :cloud: I have my head in the clouds.
 - :basketball: I'm a Boston Celtics supporter.
 - :newspaper: I regularly write articles on: [Think like a Shepherd](https://iamdpastore.github.io/)
+- :mortar_board: I'm RHCA Level II (Red Hat Certified Architect in Infrastructure)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdpastore&label=Profile%20views&color=0e75b6&style=flat" alt="iamdpastore" /> </p>
 
