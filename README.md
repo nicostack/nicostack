@@ -27,4 +27,4 @@ I’m specialized in designing and implementing infrastructures in Linux-based e
 
 ##### My stats
 ![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdpastore" alt="iamdpastore" /></a> </p>
+<p align="left"> <a href="https://github.com/iamdpastore"><img src="https://github-profile-trophy.vercel.app/?username=iamdpastore" alt="iamdpastore" /></a> </p>
