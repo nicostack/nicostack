@@ -1,11 +1,18 @@
 ## Hi there 👋
 
-My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm a Linux enthusiast from Italy.
+My name is [Domenico](https://www.linkedin.com/in/iamdpastore/), I'm Linux enthusiast from Italy.
 
-- :computer: I'm currently working for [Par-Tec](https://www.par-tec.it/).
+- :computer: I'm currently working in [Par-Tec](https://www.par-tec.it/) as Cloud Architect.
 - :cloud: I have my head in the clouds.
 - :basketball: I'm a Boston Celtics supporter.
 
+I’m specialized in designing and implementing infrastructures in Linux-based environments.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,redhat,gcp,aws,ansible,python,bash,vim,grafana,jenkins" />
+  </a>
+</p>
 
 ##### My stats
 ![iamdpastore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamdpastore&theme=radical&hide_border=false)
