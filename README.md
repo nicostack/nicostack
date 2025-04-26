@@ -26,5 +26,5 @@ I’m specialized in designing and implementing infrastructures in Linux-based e
 </p>
 
 ##### My stats
-![nictore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nictore&theme=radical&hide_border=false)
-<p align="left"> <a href="https://github.com/nicostack"><img src="https://github-profile-trophy.vercel.app/?username=nictore" alt="nicostack" /></a> </p>
+![nictore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicostack&theme=radical&hide_border=false)
+<p align="left"> <a href="https://github.com/nicostack"><img src="https://github-profile-trophy.vercel.app/?username=nicostack" alt="nicostack" /></a> </p>
